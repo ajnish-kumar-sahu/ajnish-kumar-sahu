@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 ### Project 1
 **Project Name**: Login-sign-up.
 - **Technologies Used In Frontend :-** HTML, CSS, JavaScript.
-- **GitHub Link**:https://github.com/ajnishkumar7070/Login-sign-up.git
+- **GitHub Link**:https://github.com/ajnish-kumar-sahu/Login-sign-up.git
 
 <!-- Interests Section -->
 ## Interests
@@ -61,8 +61,8 @@ I enjoy participating in hackathons and solving coding challenges in my free tim
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-[![Ajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnishkumar7070&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top Languages -->
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnishkumar7070&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
