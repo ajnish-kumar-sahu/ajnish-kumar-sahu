@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 ### Project 1
 **Project Name**: Login-sign-up.
 - **Technologies Used In Frontend :-** HTML, CSS, JavaScript.
-- **GitHub Link**:https://github.com/ajnish-kumar-sahu/Login-sign-up.git
+- **GitHub Link**:https://ajnish-kumar-sahu.github.io/Login-sign-up/
 
 <!-- Interests Section -->
 ## Interests
