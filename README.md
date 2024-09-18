@@ -66,4 +66,5 @@ I enjoy participating in hackathons and solving coding challenges in my free tim
 <!-- Top Languages -->
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="ajnish-kumar-sahu" /> </p>
+<!--                -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="ajnish-kumar-sahu" /> </p>
