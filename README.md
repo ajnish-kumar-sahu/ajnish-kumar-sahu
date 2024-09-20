@@ -9,7 +9,7 @@ I'm a passionate computer science student pursuing my Bachelor of Computer Appli
 <!-- Education Section -->
 ## Education
 ### Bachelor of Computer Applications
-Pursuing my undergraduate degree in Computer Applications from vinoba bhave university, expected to graduate in 2026
+Pursuing my undergraduate degree in Computer Applications from vinoba bhave university,hazaribag expected to graduate in 2026
 
 <!-- Skills Section -->
 ## Skills
