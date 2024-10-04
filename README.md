@@ -28,10 +28,14 @@ Pursuing my undergraduate degree in Computer Applications from vinoba bhave univ
 <!-- Projects Section -->
 ## Projects
 Here are a few projects I've worked on:
-### Project 1
+ ###Project 1
 **Project Name**: Login-sign-up.
 - **Technologies Used In Frontend :-** HTML, CSS, JavaScript.
 - **GitHub Link**:https://ajnish-kumar-sahu.github.io/login-sign-up/
+###Project 2
+**Project Name**: Login-sign-up.
+- **Technologies Used In Frontend :-** HTML, CSS, JavaScript.
+- **GitHub Link**:https://ajnish-kumar-sahu.github.io/login-signup/
 
 <!-- Interests Section -->
 ## Interests
