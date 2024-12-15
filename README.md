@@ -61,11 +61,11 @@ Feel free to connect with me on LinkedIn and let's start a conversation!
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
-[![Ajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ajnish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical)
 
 <!-- Top Languages Section -->
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical)
 
 <!-- Profile Viewer Section -->
 ## Profile Viewer
