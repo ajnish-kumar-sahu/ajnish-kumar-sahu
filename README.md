@@ -100,12 +100,12 @@ I'm a passionate Computer Applications student with a keen interest in web devel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajnishkumar16/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)
 
-
-<p align="center">
+## 👀 Profile Views
+<p align="none">
   <img src="https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&color=brightgreen" alt="Profile Views"/>
 </p>
 
 
 <p align="center">
-  <strong>Transforming Ideas into Innovative Solutions 🚀</strong>
+  <strong>Thanks for visiting my profile! Let's connect and collaborate! 🤝</strong>
 </p>
