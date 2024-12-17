@@ -61,7 +61,7 @@ I'm a passionate Computer Applications student with a keen interest in web devel
 
 ## 🔥 Coding Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajnish-kumar-sahu&theme=radical" alt="Ajnish Kumar's Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ajnish-kumar-sahu&theme=radical&hide_border=true&border_radius=5&card_width=500" alt="Streak Stats"/>
 </p>
 
 ## 🏆 Coding Profiles
