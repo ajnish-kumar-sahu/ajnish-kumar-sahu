@@ -1,6 +1,6 @@
 <!-- Dynamic Header with Typing Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ajnish%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=29&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ajnish%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=31&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=🎓+Computer+Applications+Student;🚀+Full+Stack+Developer;💻+MERN+Stack+Developer;📱+React+Native+Developer;🎨+UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
 
@@ -85,7 +85,7 @@
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=🚀+Featured+Projects" alt="Featured Projects" />
 </h3>
-
+<!--
 <div align="center">
   <a href="https://github.com/ajnish-kumar-sahu/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=portfolio&theme=react&hide_border=true&show_icons=true" />
@@ -94,7 +94,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=ecommerce-template&theme=react&hide_border=true&show_icons=true" />
   </a>
 </div>
-
+-->
 ---
 
 <!-- GitHub Stats Section -->
