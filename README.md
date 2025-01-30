@@ -113,7 +113,7 @@
   </p>
   
   <!-- GitHub Streak Stats -->
-  <img width="180%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnish-kumar-sahu&theme=radical&hide_border=true" />
+  <img width="180em%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnish-kumar-sahu&theme=radical&hide_border=true" />
   
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajnish-kumar-sahu&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
