@@ -1,111 +1,179 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ajnish+Kumar)](https://git.io/typing-svg)
+<!-- Dynamic Header with Typing Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ajnish%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=29&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajnishkumar16/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ajnishkumar763)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=🎓+Computer+Applications+Student;🚀+Full+Stack+Developer;💻+MERN+Stack+Developer;📱+React+Native+Developer;🎨+UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
 
-## 🚀 About Me
+  <!-- Social Links with Hover Effects -->
+  <div style="margin: 20px 0">
+    <a href="https://linkedin.com/in/ajnishkumar16" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=darker" alt="LinkedIn" />
+    </a>&nbsp;
+    <a href="https://instagram.com/ajnishkumar.in" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>&nbsp;
+    <a href="https://www.hackerrank.com/profile/ajnishkumar763" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>&nbsp;
+    <a href="mailto:ajnishku7070@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
+</div>
 
-I'm a passionate Computer Applications student with a keen interest in web development and programming. Currently pursuing my Bachelor's degree at Vinoba Bhave University, I'm dedicated to creating innovative technological solutions.
+---
 
-### 💡 Quick Overview
-- 🎓 Computer Applications Student
-- 💻 Aspiring Web Developer
-- 🌱 Learning Advanced JavaScript and React
-- 🏆 Open Source Enthusiast
+<!-- About Me Section with Icons -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=💫+About+Me" alt="About Me" />
+</h3>
 
-## 🛠️ Tech Stack
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🎓 Currently pursuing **BCA** at Vinoba Bhave University Hazaribag 
+- 🔭 Working on **MERN Stack Development**
+- 🌱 Learning **React Native** & **UI/UX Design**
+- 👨‍💻 All my projects are available at [Portfolio](https://ajnish-portfolio.netlify.app)
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 Reach me at **ajnishku7070@gmail.com**
+- ⚡ Fun fact: I debug with chai ☕
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br clear="both">
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+---
 
-## 🚀 Featured Projects
+<!-- Tech Stack Section -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=🛠️+Tech+Stack" alt="Tech Stack" />
+</h3>
 
-### 1. Login-Signup Platform
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ajnish-kumar-sahu/login-sign-up)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ajnish-kumar-sahu.github.io/login-sign-up/)
-
-- Responsive login and registration system
-- Implemented with HTML, CSS, and JavaScript
-- Features client-side form validation
-- Fully responsive design
-
-### 2. Web Development Portfolio
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/ajnish-kumar-sahu/portfolio)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ajnish-portfolio.netlify.app)
-
-- Personal portfolio showcasing projects
-- Built with modern web technologies
-- Responsive and interactive design
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-## 🔥 Coding Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajnish-kumar-sahu&theme=radical&hide_border=true&border_radius=5&card_width=500" alt="Streak Stats"/>
-</p>
-
-## 🏆 Coding Profiles
-- **HackerRank**: [Profile](https://www.hackerrank.com/profile/ajnishkumar763)
-- **LeetCode**: [Profile](https://leetcode.com/ajnishkumar7070)
-
-## 🌟 Skills & Interests
-- Web Development
-- Frontend Design
-- Open Source Contribution
-- Problem Solving
-- UI/UX Design
-- Technology Innovation
-
-## 🎓 Education
-- **Bachelor of Computer Applications**
-- Vinoba Bhave University, Hazaribag
-- Expected Graduation: 2026
-
-## 🎲 Fun Facts
-
-<details>
-<summary>Click to reveal some fun facts about me!</summary>
-
-- 🍕 I can eat pizza at any time of the day
-- 🎮 Passionate gamer who loves strategy and puzzle games
-- 🌍 Dream of traveling to at least 10 different countries
-- 📚 I read more tech blogs than novels
-- 🤖 I believe AI will revolutionize the way we work and live
-- 🎵 Can solve coding problems while listening to lo-fi music
-- 🧩 Enjoy solving Rubik's cube and other brain-teasing puzzles
-- 🚲 I find coding and cycling both meditative experiences
+<details open>
+  <summary><b>Programming Languages</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  </p>
 </details>
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajnishkumar16/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)
+<details open>
+  <summary><b>Frontend Development</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,materialui" />
+  </p>
+</details>
 
-## 👀 Profile Views
-<p align="none">
-  <img src="https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&color=brightgreen" alt="Profile Views"/>
-</p>
+<details open>
+  <summary><b>Backend Development</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  </p>
+</details>
 
+<details open>
+  <summary><b>Tools & Technologies</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  </p>
+</details>
 
-<p align="center">
-  <strong>Thanks for visiting my profile! Let's connect and collaborate! 🤝</strong>
-</p>
+---
+
+<!-- Featured Projects with Cards -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=🚀+Featured+Projects" alt="Featured Projects" />
+</h3>
+
+<div align="center">
+  <a href="https://github.com/ajnish-kumar-sahu/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=portfolio&theme=react&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/ajnish-kumar-sahu/ecommerce-template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=ecommerce-template&theme=react&hide_border=true&show_icons=true" />
+  </a>
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=📊+GitHub+Statistics" alt="GitHub Stats" />
+</h3>
+
+<div align="center">
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ajnish-kumar-sahu&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  
+  <!-- GitHub Stats Card -->
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </p>
+  
+  <!-- GitHub Streak Stats -->
+  <img width="180%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnish-kumar-sahu&theme=radical&hide_border=true" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajnish-kumar-sahu&theme=redical&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+
+  <!-- Additional Stats -->
+  <details>
+    <summary><b>📈 Detailed GitHub Statistics</b></summary>
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajnish-kumar-sahu&theme=radical" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajnish-kumar-sahu&theme=radical" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajnish-kumar-sahu&theme=radical" width="49%" />
+  </details>
+</div>
+
+---
+
+<!-- Achievements Section -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=🏆+Achievements" alt="Achievements" />
+</h3>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajnish-kumar-sahu&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+- 🥇 HackerRank Gold Badge in Problem Solving
+- 💻 LeetCode 1+ Problems Solved
+- 🌟 Google Developer Student Club Member
+- 📱 Published Android Apps on Play Store
+- 🎨 UI/UX Design Portfolio Recognition
+
+---
+
+<!-- Fun Facts Section with Collapsible Content -->
+<h3 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=🎮+Hobbies+%26+Interests" alt="Hobbies & Interests" />
+</h3>
+
+<details>
+  <summary><b>Click to expand 👀</b></summary>
+  
+  - 💻 Passionate about Clean Code and Best Practices
+  - 🌐 Love exploring new web technologies
+  - 🚀 Enjoy building scalable applications
+  - 🎨 UI/UX Design enthusiast
+  - 🌱 Active open-source contributor
+  - 🔧 Problem-solving with Data Structures & Algorithms
+  - 📱 Mobile app development enthusiast
+  - ⚡ Hackathon participant and tech community member
+  - ☕ Fueled by Chai and Code
+  
+  
+</details>
+
+---
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
