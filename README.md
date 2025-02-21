@@ -51,7 +51,7 @@
   <summary><b>Programming Languages</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,,javascript" />
   </p>
 </details>
 
@@ -59,7 +59,7 @@
   <summary><b>Frontend Development</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </p>
 </details>
 
@@ -67,7 +67,7 @@
   <summary><b>Backend Development</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=" />
   </p>
 </details>
 
