@@ -33,7 +33,7 @@
 - 🎓 Currently pursuing **BCA** at Vinoba Bhave University Hazaribag 
 - 🔭 Working on **MERN Stack Development**
 - 🌱 Learning **React Native** & **UI/UX Design**
-- 👨‍💻 All my projects are available at [Portfolio](https://ajnish-portfolio.netlify.app)
+- 👨‍💻 All my projects are available at [My Portfolio](https://ajnish-portfolio.netlify.app)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 Reach me at **ajnishku7070@gmail.com**
 - ⚡ Fun fact: I debug with chai ☕
@@ -51,7 +51,7 @@
   <summary><b>Programming Languages</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" />
   </p>
 </details>
 
@@ -67,7 +67,7 @@
   <summary><b>Backend Development</b></summary>
   <br/>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </p>
 </details>
 
@@ -140,7 +140,7 @@
 </div>
 
 - 🥇 HackerRank Gold Badge in Problem Solving
-- 💻 LeetCode 1+ Problems Solved
+- 💻 LeetCode 100+ Problems Solved
 - 🌟 Google Developer Student Club Member
 - 📱 Published Android Apps on Play Store
 - 🎨 UI/UX Design Portfolio Recognition
@@ -164,7 +164,6 @@
   - 📱 Mobile app development enthusiast
   - ⚡ Hackathon participant and tech community member
   - ☕ Fueled by Chai and Code
-  
   
 </details>
 
