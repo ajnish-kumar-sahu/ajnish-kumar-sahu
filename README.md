@@ -146,11 +146,6 @@
 </div>
 
 - 🥇 HackerRank Gold Badge in Problem Solving
-- 💻 LeetCode 100+ Problems Solved
-- 🌟 Google Developer Student Club Member
-- 📱 Published Android Apps on Play Store
-- 🎨 UI/UX Design Portfolio Recognition
-
 ---
 
 <!-- Fun Facts Section with Collapsible Content -->
