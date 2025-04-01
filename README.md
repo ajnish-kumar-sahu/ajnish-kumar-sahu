@@ -85,16 +85,22 @@
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=🚀+Featured+Projects" alt="Featured Projects" />
 </h3>
-<!--
+
 <div align="center">
-  <a href="https://github.com/ajnish-kumar-sahu/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=portfolio&theme=react&hide_border=true&show_icons=true" />
+  <a href="https://github.com/ajnish-kumar-sahu/assignment-cover-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=assignment-cover-generator&theme=react&hide_border=true&show_icons=true" />
   </a>
-  <a href="https://github.com/ajnish-kumar-sahu/ecommerce-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=ecommerce-template&theme=react&hide_border=true&show_icons=true" />
+  <a href="https://github.com/ajnish-kumar-sahu/Monthly-Item-List-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=Monthly-Item-List-Management-System&theme=react&hide_border=true&show_icons=true" />
   </a>
 </div>
--->
+
+<p align="center">
+  <strong>Live Demos:</strong><br>
+  <a href="https://ajnish-kumar-sahu.github.io/assignment-cover-generator/" target="_blank">🎓 Assignment Cover Generator</a> •
+  <a href="https://github.com/ajnish-kumar-sahu/Monthly-Item-List-Management-System" target="_blank">📆 Monthly Item Manager</a>
+</p>
+
 ---
 
 <!-- GitHub Stats Section -->
