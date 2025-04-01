@@ -95,6 +95,7 @@
     </p>
   </details>
 </div>
+
 ---
 
 <!-- Featured Projects with Cards -->
@@ -162,6 +163,7 @@
 </div>
 
 - 🥇 HackerRank Gold Badge in Problem Solving
+
 ---
 
 <!-- Fun Facts Section with Collapsible Content -->
