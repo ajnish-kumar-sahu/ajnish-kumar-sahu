@@ -104,43 +104,6 @@
   </details>
 </div>
 
-<!-- Tech Stack Section -->
-<h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&repeat=false&random=false&width=435&lines=🛠️+Tech+Stack" alt="Tech Stack" />
-</h3>
-
-<details open>
-  <summary><b>Programming Languages</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Frontend Development</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend Development</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Tools & Technologies</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </p>
-</details>
-
 ---
 
 <!-- Featured Projects with Cards -->
