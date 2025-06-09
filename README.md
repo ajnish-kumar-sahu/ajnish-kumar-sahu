@@ -7,7 +7,7 @@
   <!-- Social Links with Hover Effects -->
   <div style="margin: 20px 0">
     <a href="https://linkedin.com/in/ajnishkumar16" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=darker" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>&nbsp;
     <a href="https://instagram.com/ajnishsahu.in" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -107,16 +107,13 @@
   <a href="https://github.com/ajnish-kumar-sahu/assignment-cover-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=assignment-cover-generator&theme=react&hide_border=true&show_icons=true" />
   </a>
+  <p>A web app for generating assignment covers dynamically. Built with HTML, CSS, and JavaScript.</p>
+  
   <a href="https://github.com/ajnish-kumar-sahu/Monthly-Item-List-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnish-kumar-sahu&repo=Monthly-Item-List-Management-System&theme=react&hide_border=true&show_icons=true" />
   </a>
+  <p>A tool for managing monthly items and expenses. Built using React and MongoDB.</p>
 </div>
-
-<p align="center">
-  <strong>Live Demos:</strong><br>
-  <a href="https://ajnish-kumar-sahu.github.io/assignment-cover-generator/" target="_blank">🎓 Assignment Cover Generator</a> •
-  <a href="https://github.com/ajnish-kumar-sahu/Monthly-Item-List-Management-System" target="_blank">📆 Monthly Item Manager</a>
-</p>
 
 ---
 
