@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ajnish-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajnishkumar16)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ajnishkumar763)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)
 
 ---
 
@@ -88,9 +88,6 @@ A C++ CLI tool for tracking monthly items and generating reports.
 
 ## 🤝 Let's Connect
 
-📫 **ajnishku7070@gmail.com** | [LinkedIn](https://linkedin.com/in/ajnishkumar16)  
-Feel free to connect for collaborations, discussions, or mentoring!
+📫 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/ajnishkumar16) – open to collaborations and ideas!
 
 > *"Code is poetry written in logic"* – Always learning, always building.
-
----
