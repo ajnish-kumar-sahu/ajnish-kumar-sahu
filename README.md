@@ -60,11 +60,14 @@ A C++ CLI tool for tracking monthly items and generating reports.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajnish-kumar-sahu&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical)
+### 🟩 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajnish-kumar-sahu&theme=react-dark&hide_border=true&area=true)
 
 ---
 
@@ -88,6 +91,7 @@ A C++ CLI tool for tracking monthly items and generating reports.
 
 ## 🤝 Let's Connect
 
-📫 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/ajnishkumar16) – open to collaborations and ideas!
+📫 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/ajnishkumar16) – open to collaborations and ideas!  
 
 > *"Code is poetry written in logic"* – Always learning, always building.
