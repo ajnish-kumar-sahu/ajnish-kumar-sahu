@@ -1,184 +1,189 @@
-<div align="center">
-
 # 👋 Ajnish Kumar Sahu
 
-**Full Stack Developer | Cybersecurity Enthusiast | BCA Student**
+<div align="center">
 
-*Building secure, scalable web applications with a passion for education and innovation*
+### 🚀 Full-Stack Developer | Web Enthusiast | Open-Source Contributor
 
-<div>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajnish.in-2E86AB?style=for-the-badge&logo=globe&logoColor=white)](https://www.ajnish.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajnishkumar16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajnishkumar16)
-[![GitHub](https://img.shields.io/badge/GitHub-ajnish--kumar--sahu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajnish-kumar-sahu)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ajnishkumar763-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ajnishkumar763)
-[![Email](https://img.shields.io/badge/Email-ajnishku7070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/ajnish-kumar-sahu?style=social)](https://github.com/ajnish-kumar-sahu)
+[![GitHub User's stars](https://img.shields.io/github/stars/ajnish-kumar-sahu?style=social)](https://github.com/ajnish-kumar-sahu)
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 🎯 About Me
 
-**BCA Student** at Department of Computer Application, Vinoba Bhave University, Hazaribagh
+I'm a passionate **full-stack developer** dedicated to building innovative solutions that make a real impact. With expertise across multiple programming languages and modern frameworks, I create clean, scalable, and user-friendly applications.
 
-I'm passionate about building **secure, scalable web applications** and creating tools that solve real-world problems. My journey is focused on mastering full-stack development while establishing expertise in cybersecurity—bridging the gap between development and security.
-
-**🔹 What Drives Me:**
-- ✨ Creating production-ready MERN applications with security-first design
-- 🛡️ Designing resilient systems protected against common vulnerabilities  
-- 📚 Building educational tools for students and developers
-- 🎯 Laying the foundation for a cybersecurity teaching career
+- 🔭 **Currently:** Exploring advanced web technologies and full-stack development patterns
+- 🌱 **Always:** Learning new frameworks and best practices in software development
+- 💡 **Passionate:** About open-source contributions and community-driven projects
+- 🎯 **Goal:** Building meaningful projects that solve real-world problems
+- 🤝 **Interested:** In collaborating on innovative and impactful projects
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| **📄 Assignment Cover Generator** | AI-powered document generation tool for students with smart templates | React, JavaScript, localStorage | ✅ Live |
-| **🌐 Portfolio Website** | Responsive portfolio with Lighthouse Score 90+ and mobile-first design | HTML5, CSS3, JavaScript, Netlify | ✅ Live |
-| **📦 Item Management System** | CLI inventory tracking system for small vendors with file persistence | C++, OOP, File I/O | ✅ Complete |
-
----
-
-## 💻 Tech Stack
-
-<table>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Tools & Platforms</b></td>
-<td>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</td>
-</tr>
-</table>
-
----
-
-## 🔐 Security Expertise
-
-My commitment to secure development practices:
-
-| Category | Focus Areas |
-|----------|------------|
-| 🔑 **Authentication** | JWT, Session Management, OAuth Basics |
-| 🛡️ **Authorization** | RBAC, Permission Control, Access Policies |
-| ⚡ **API Security** | Rate Limiting, Input Validation, CORS |
-| 🚫 **Protection** | XSS Prevention, CSRF Protection, Input Sanitization, SQL Injection Prevention |
-| 🔒 **Infrastructure** | HTTPS/TLS, Security Headers, MongoDB Hardening, Environment Variables |
-| 📚 **Knowledge** | OWASP Top 10, Threat Modeling, Secure Coding Practices, Vulnerability Assessment |
-
----
-
-## 🏗️ Currently Building
+## 💼 Professional Skills
 
 <div align="center">
 
-| Project | Status | Impact |
-|---------|--------|--------|
-| 🤖 **AI-Enhanced Assignment Tool** | In Progress | Smart title generation & template suggestions for students |
-| 📱 **Android BCA Study App** | Planning | Offline semester materials for students |
-| ⚙️ **CLI Productivity Utilities** | In Progress | Academic workflow automation tools |
-| 🔐 **Secure REST API Template** | In Progress | Production-ready security best practices & boilerplate |
+| Category | Skills |
+|----------|--------|
+| **Languages** | TypeScript, JavaScript, C, C++, Java |
+| **Frontend** | HTML5, CSS3, React, Vue.js, Responsive Design |
+| **Backend** | Node.js, Express, API Development |
+| **Databases** | SQL, MongoDB |
+| **Tools & Platforms** | Git, GitHub, GitHub Desktop, VS Code, Web Development |
+| **Specializations** | Full-Stack Web Development, UI/UX Implementation, Data Structures |
 
 </div>
 
 ---
 
-## 🎯 Career Vision
-
-**Building secure academic technology solutions while pursuing a teaching career in Cybersecurity Education**
-
-My mission is to become a cybersecurity educator who bridges theory and practice, helping the next generation of developers understand that **security is not a feature—it's a responsibility**. I believe in:
-
-- 🌱 Mentoring junior developers in secure coding practices
-- 📖 Creating educational content on cybersecurity
-- 🔍 Advocating for security-first development mindset
-- 🤝 Building a community of security-conscious developers
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/ajnish-kumar-sahu)
+![Ajnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/ajnish-kumar-sahu)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ajnish-kumar-sahu&theme=dark&background=0d1117&border=58a6ff)](https://github.com/ajnish-kumar-sahu)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🏆 Featured Projects
 
-I'm always excited to discuss **web development**, **cybersecurity**, or collaborate on meaningful projects. Whether you have an idea, want to discuss security best practices, or share knowledge—let's connect!
+### 🌐 Web & Frontend Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Assignment Cover Generator](https://github.com/ajnish-kumar-sahu/assignment-cover-generator)** | Smart tool for creating consistent, well-formatted assignment covers in seconds | TypeScript |
+| **[Ajnish Portfolio](https://github.com/ajnish-kumar-sahu/ajnish-portfolio)** | Modern, responsive personal portfolio showcasing projects and expertise | TypeScript |
+| **[My Portfolio](https://github.com/ajnish-kumar-sahu/my-portfolio)** | Professional portfolio website with project highlights | HTML |
+| **[Ajnish Dev Glow](https://github.com/ajnish-kumar-sahu/ajnish-dev-glow)** | Developer showcase portfolio with modern design patterns | TypeScript |
+| **[Invitation Card Generator](https://github.com/ajnish-kumar-sahu/invitaton-card)** | Elegant digital invitation card generator for special occasions | HTML/CSS/JavaScript |
+| **[Portfolio](https://github.com/ajnish-kumar-sahu/portfolio)** | Stylish portfolio implementation with CSS animations | CSS |
+| **[Login Sign-Up](https://github.com/ajnish-kumar-sahu/login-sign-up)** | Modern authentication UI with form validation | CSS |
+| **[Login Signup](https://github.com/ajnish-kumar-sahu/login-signup)** | Responsive authentication interface | CSS |
+
+### 🚀 Full Stack & Application Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Vbubca](https://github.com/ajnish-kumar-sahu/Vbubca)** | Comprehensive full-featured application with advanced functionality | TypeScript |
+| **[Project My Gallery](https://github.com/ajnish-kumar-sahu/Project-my-gallery)** | Community-driven platform for coders to collaborate, share knowledge, and grow together | Community |
+
+### 📚 Programming & Data Structures
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[C Programming](https://github.com/ajnish-kumar-sahu/c-programming)** | Comprehensive collection of C examples and data structure implementations with well-documented code and practical exercises | C |
+| **[Java Programming](https://github.com/ajnish-kumar-sahu/java-programming)** | Java projects covering OOP concepts, design patterns, and practical applications | Java |
+| **[Monthly Item List Management System](https://github.com/ajnish-kumar-sahu/Monthly-Item-List-Management-System)** | Sophisticated C++ application for inventory and item management | C++ |
+| **[Computer Networks Notes](https://github.com/ajnish-kumar-sahu/computer-networks-notes01)** | In-depth study materials covering networking protocols and concepts | TypeScript |
+
+### 🎓 Learning & Reference
+
+| Project | Description |
+|---------|-------------|
+| **[GitHub Desktop Tutorial](https://github.com/ajnish-kumar-sahu/desktop-tutorial)** | Hands-on guide to mastering GitHub Desktop |
+| **[GitHub Skills Introduction](https://github.com/ajnish-kumar-sahu/skills-introduction-to-github)** | Comprehensive GitHub fundamentals learning resource |
+
+---
+
+## 🌟 Key Highlights
 
 <div align="center">
 
-### 📞 Get in Touch
+✨ **17+ Projects** | 🎯 **Full-Stack Developer** | 💻 **Web Development Expert**
 
-[![Email](https://img.shields.io/badge/Email-ajnishku7070@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajnishku7070@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajnishkumar16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajnishkumar16)
-[![GitHub](https://img.shields.io/badge/GitHub-ajnish--kumar--sahu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajnish-kumar-sahu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajnish.in-2E86AB?style=for-the-badge&logo=globe&logoColor=white)](https://www.ajnish.in/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ajnishkumar763-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ajnishkumar763)
+🔧 **TypeScript Specialist** | 📚 **Continuous Learner** | 🤝 **Community Contributor**
 
-### 💬 Topics I Love Discussing
+</div>
 
-- 🔹 **Full Stack Development** - MERN Applications & Best Practices
-- 🔹 **Web Security** - Secure Coding & Vulnerability Prevention
-- 🔹 **Tech Education** - Teaching & Mentoring Developers
-- 🔹 **Open Source** - Contributing to Security-Focused Projects
-- 🔹 **Cybersecurity** - Defense Strategies & Threat Analysis
+---
 
-### ✅ Open To
+## 📈 What I'm Focused On
 
-- 🤝 **Collaboration** on innovative web projects
-- 📚 **Mentorship** opportunities in cybersecurity
-- 💡 **Discussions** on secure development practices
-- 🔐 **Security Audits** for web applications
-- 🎓 **Teaching Opportunities** in cybersecurity education
+- 🎨 Building beautiful, responsive web applications
+- 🔐 Writing secure and scalable backend services
+- 📱 Creating mobile-friendly user experiences
+- 🧪 Implementing clean code practices and testing
+- 📖 Sharing knowledge through documentation and examples
+- 🌍 Contributing to open-source communities
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm always excited to connect with fellow developers, discuss innovative ideas, and collaborate on impactful projects:
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💌 **Email** | [your-email@example.com](mailto:your-email@example.com) |
+| 🔗 **LinkedIn** | [LinkedIn Profile](https://linkedin.com/in/your-profile) |
+| 🐦 **Twitter** | [@YourHandle](https://twitter.com/yourhandle) |
+| 📝 **Blog** | [Your Blog](https://yourblog.com) |
+| 🌐 **Portfolio** | [Your Portfolio](https://yourportfolio.com) |
+
+</div>
+
+---
+
+## 💡 Quick Facts About Me
+
+- 🎓 Passionate about learning and mastering new technologies
+- 🌍 Open to remote collaboration and exciting opportunities
+- 💻 Specialized in full-stack web development
+- 🎨 Advocate for clean code and thoughtful design
+- ⚡ Fast learner with strong problem-solving skills
+- 🚀 Committed to shipping quality products
+- 🤖 Interested in exploring AI/ML applications in web development
+
+---
+
+## 📈 My Development Journey
+
+This GitHub profile represents my evolution as a developer. From foundational programming in **C and C++** to modern **TypeScript-based web development**, I've built a diverse portfolio spanning:
+
+- **Data Structures & Algorithms** - Strong fundamentals in core CS concepts
+- **Web Development** - Full-stack expertise in building responsive applications
+- **UI/UX Implementation** - Creating beautiful and intuitive user interfaces
+- **Community Projects** - Contributing to collaborative open-source initiatives
+
+Every project is a stepping stone in my journey toward becoming an exceptional software engineer.
+
+---
+
+## 🎯 Goals for 2026
+
+- 🚀 Contribute to more impactful open-source projects
+- 📚 Deepen expertise in advanced TypeScript patterns
+- 🌐 Build scalable full-stack applications
+- 🤝 Mentor junior developers and grow the community
+- 🏆 Achieve technical excellence in every project
+
+---
+
+## 💬 Let's Chat!
+
+I love discussing:
+- 💡 New tech trends and innovations
+- 🔧 Best practices in web development
+- 🤝 Open-source collaboration opportunities
+- 📚 Learning resources and community projects
+- 🚀 Exciting startup ideas and tech solutions
+
+Feel free to reach out and start a conversation! 👇
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&color=blue&style=flat)
+
+**⭐ If you find my projects helpful, please consider starring them!**
 
 </div>
 
@@ -186,12 +191,8 @@ I'm always excited to discuss **web development**, **cybersecurity**, or collabo
 
 <div align="center">
 
-### ⭐ Philosophy
+### Made with ❤️ by Ajnish Kumar Sahu
 
-> *"Security is not about perfect code. It's about understanding the risks, making informed decisions, and building systems that fail gracefully."*
-
-**Always Learning • Always Building • Always Improving**
-
-*Last Updated: 2026-03-15* 
+*Last updated: 2026* | [View All Repositories](https://github.com/ajnish-kumar-sahu?tab=repositories)
 
 </div>
