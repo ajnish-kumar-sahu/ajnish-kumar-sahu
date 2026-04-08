@@ -1,40 +1,103 @@
-# 👋 Ajnish Kumar Sahu
-
 <div align="center">
 
-### 🚀 Full-Stack Developer | Web Enthusiast | Open-Source Contributor
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ajnish%20Kumar%20Sahu&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20TypeScript%20Specialist%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=18"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ajnish-kumar-sahu?style=social)](https://github.com/ajnish-kumar-sahu)
-[![GitHub User's stars](https://img.shields.io/github/stars/ajnish-kumar-sahu?style=social)](https://github.com/ajnish-kumar-sahu)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ajnish+Kumar+Sahu+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%9A%80;TypeScript+%26+React+Enthusiast+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/ajnish-kumar-sahu?style=for-the-badge&logo=github&color=0e75b6&labelColor=1a1b27)](https://github.com/ajnish-kumar-sahu)
+[![GitHub Stars](https://img.shields.io/github/stars/ajnish-kumar-sahu?style=for-the-badge&logo=github&color=ffd700&labelColor=1a1b27)](https://github.com/ajnish-kumar-sahu)
+[![Profile Views](https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/ajnish-kumar-sahu)
 
 </div>
 
 ---
 
-## 🎯 About Me
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm a passionate **full-stack developer** dedicated to building innovative solutions that make a real impact. With expertise across multiple programming languages and modern frameworks, I create clean, scalable, and user-friendly applications.
+## 🧑‍💻 About Me
 
-- 🔭 **Currently:** Exploring advanced web technologies and full-stack development patterns
-- 🌱 **Always:** Learning new frameworks and best practices in software development
-- 💡 **Passionate:** About open-source contributions and community-driven projects
-- 🎯 **Goal:** Building meaningful projects that solve real-world problems
-- 🤝 **Interested:** In collaborating on innovative and impactful projects
+```typescript
+const ajnish = {
+  name: "Ajnish Kumar Sahu",
+  role: "Full-Stack Developer",
+  location: "India 🇮🇳",
+  
+  languages: ["TypeScript", "JavaScript", "C", "C++", "Java"],
+  
+  frontend: ["React", "Vue.js", "HTML5", "CSS3"],
+  backend: ["Node.js", "Express", "REST APIs"],
+  databases: ["MongoDB", "SQL"],
+  
+  tools: ["Git", "GitHub", "VS Code", "GitHub Desktop"],
+  
+  currentFocus: "Building scalable full-stack applications",
+  funFact: "I turn coffee ☕ into clean, elegant code!",
+  
+  openToCollaborate: true,
+  lookingFor: "Exciting open-source projects & opportunities"
+};
+```
+
+<br clear="right"/>
 
 ---
 
-## 💼 Professional Skills
+## 🚀 What I'm Up To
+
+<table>
+<tr>
+<td>
+
+🔭 **Currently** exploring advanced web technologies & full-stack patterns  
+🌱 **Learning** deep TypeScript patterns & scalable architecture  
+💡 **Passionate** about open-source & community-driven projects  
+🤖 **Exploring** AI/ML integrations in modern web development  
+🎯 **Goal** Building meaningful products that solve real problems  
+🤝 **Open to** collaboration on innovative & impactful projects  
+⚡ **Fun Fact** Every line of code I write is a stepping stone to excellence  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | TypeScript, JavaScript, C, C++, Java |
-| **Frontend** | HTML5, CSS3, React, Vue.js, Responsive Design |
-| **Backend** | Node.js, Express, API Development |
-| **Databases** | SQL, MongoDB |
-| **Tools & Platforms** | Git, GitHub, GitHub Desktop, VS Code, Web Development |
-| **Specializations** | Full-Stack Web Development, UI/UX Implementation, Data Structures |
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -44,146 +107,233 @@ I'm a passionate **full-stack developer** dedicated to building innovative solut
 
 <div align="center">
 
-![Ajnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=radical&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajnish-kumar-sahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajnish-kumar-sahu&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=compact&theme=radical&hide_border=true)
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajnish-kumar-sahu&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 GitHub Trophies
 
-### 🌐 Web & Frontend Projects
+<div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Assignment Cover Generator](https://github.com/ajnish-kumar-sahu/assignment-cover-generator)** | Smart tool for creating consistent, well-formatted assignment covers in seconds | TypeScript |
-| **[Ajnish Portfolio](https://github.com/ajnish-kumar-sahu/ajnish-portfolio)** | Modern, responsive personal portfolio showcasing projects and expertise | TypeScript |
-| **[My Portfolio](https://github.com/ajnish-kumar-sahu/my-portfolio)** | Professional portfolio website with project highlights | HTML |
-| **[Ajnish Dev Glow](https://github.com/ajnish-kumar-sahu/ajnish-dev-glow)** | Developer showcase portfolio with modern design patterns | TypeScript |
-| **[Invitation Card Generator](https://github.com/ajnish-kumar-sahu/invitaton-card)** | Elegant digital invitation card generator for special occasions | HTML/CSS/JavaScript |
-| **[Portfolio](https://github.com/ajnish-kumar-sahu/portfolio)** | Stylish portfolio implementation with CSS animations | CSS |
-| **[Login Sign-Up](https://github.com/ajnish-kumar-sahu/login-sign-up)** | Modern authentication UI with form validation | CSS |
-| **[Login Signup](https://github.com/ajnish-kumar-sahu/login-signup)** | Responsive authentication interface | CSS |
+[![trophy](https://github-profile-trophy.vercel.app/?username=ajnish-kumar-sahu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🚀 Full Stack & Application Projects
+</div>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Vbubca](https://github.com/ajnish-kumar-sahu/Vbubca)** | Comprehensive full-featured application with advanced functionality | TypeScript |
-| **[Project My Gallery](https://github.com/ajnish-kumar-sahu/Project-my-gallery)** | Community-driven platform for coders to collaborate, share knowledge, and grow together | Community |
+---
+
+## 🌟 Contribution Graph
+
+<div align="center">
+
+[![Ajnish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajnish-kumar-sahu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web & Frontend
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 [Assignment Cover Generator](https://github.com/ajnish-kumar-sahu/assignment-cover-generator)
+> Smart tool for creating consistent, well-formatted assignment covers in seconds.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 💼 [Ajnish Portfolio](https://github.com/ajnish-kumar-sahu/ajnish-portfolio)
+> Modern, responsive personal portfolio showcasing projects and expertise.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✨ [Ajnish Dev Glow](https://github.com/ajnish-kumar-sahu/ajnish-dev-glow)
+> Developer showcase with modern design patterns and sleek animations.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 💌 [Invitation Card Generator](https://github.com/ajnish-kumar-sahu/invitaton-card)
+> Elegant digital invitation card generator for special occasions.
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+</div>
+
+### ⚙️ Full Stack & Applications
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ [Vbubca](https://github.com/ajnish-kumar-sahu/Vbubca)
+> Comprehensive full-featured application with advanced functionality.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🖼️ [Project My Gallery](https://github.com/ajnish-kumar-sahu/Project-my-gallery)
+> Community-driven platform for coders to collaborate and grow together.
+
+![Community](https://img.shields.io/badge/-Community-blueviolet?style=flat-square)
+
+</td>
+</tr>
+</table>
+</div>
 
 ### 📚 Programming & Data Structures
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[C Programming](https://github.com/ajnish-kumar-sahu/c-programming)** | Comprehensive collection of C examples and data structure implementations with well-documented code and practical exercises | C |
-| **[Java Programming](https://github.com/ajnish-kumar-sahu/java-programming)** | Java projects covering OOP concepts, design patterns, and practical applications | Java |
-| **[Monthly Item List Management System](https://github.com/ajnish-kumar-sahu/Monthly-Item-List-Management-System)** | Sophisticated C++ application for inventory and item management | C++ |
-| **[Computer Networks Notes](https://github.com/ajnish-kumar-sahu/computer-networks-notes01)** | In-depth study materials covering networking protocols and concepts | TypeScript |
-
-### 🎓 Learning & Reference
-
-| Project | Description |
-|---------|-------------|
-| **[GitHub Desktop Tutorial](https://github.com/ajnish-kumar-sahu/desktop-tutorial)** | Hands-on guide to mastering GitHub Desktop |
-| **[GitHub Skills Introduction](https://github.com/ajnish-kumar-sahu/skills-introduction-to-github)** | Comprehensive GitHub fundamentals learning resource |
-
----
-
-## 🌟 Key Highlights
-
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-✨ **17+ Projects** | 🎯 **Full-Stack Developer** | 💻 **Web Development Expert**
+### 🔵 [C Programming](https://github.com/ajnish-kumar-sahu/c-programming)
+> Comprehensive C examples, DSA implementations & practical exercises.
 
-🔧 **TypeScript Specialist** | 📚 **Continuous Learner** | 🤝 **Community Contributor**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
+</td>
+<td width="50%">
+
+### ☕ [Java Programming](https://github.com/ajnish-kumar-sahu/java-programming)
+> OOP concepts, design patterns & practical Java applications.
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗂️ [Monthly Item List Management System](https://github.com/ajnish-kumar-sahu/Monthly-Item-List-Management-System)
+> Sophisticated C++ application for inventory and item management.
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🌐 [Computer Networks Notes](https://github.com/ajnish-kumar-sahu/computer-networks-notes01)
+> In-depth study materials covering networking protocols and concepts.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
-
----
-
-## 📈 What I'm Focused On
-
-- 🎨 Building beautiful, responsive web applications
-- 🔐 Writing secure and scalable backend services
-- 📱 Creating mobile-friendly user experiences
-- 🧪 Implementing clean code practices and testing
-- 📖 Sharing knowledge through documentation and examples
-- 🌍 Contributing to open-source communities
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-I'm always excited to connect with fellow developers, discuss innovative ideas, and collaborate on impactful projects:
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 💌 **Email** | [your-email@example.com](mailto:your-email@example.com) |
-| 🔗 **LinkedIn** | [LinkedIn Profile](https://linkedin.com/in/your-profile) |
-| 🐦 **Twitter** | [@YourHandle](https://twitter.com/yourhandle) |
-| 📝 **Blog** | [Your Blog](https://yourblog.com) |
-| 🌐 **Portfolio** | [Your Portfolio](https://yourportfolio.com) |
-
-</div>
-
----
-
-## 💡 Quick Facts About Me
-
-- 🎓 Passionate about learning and mastering new technologies
-- 🌍 Open to remote collaboration and exciting opportunities
-- 💻 Specialized in full-stack web development
-- 🎨 Advocate for clean code and thoughtful design
-- ⚡ Fast learner with strong problem-solving skills
-- 🚀 Committed to shipping quality products
-- 🤖 Interested in exploring AI/ML applications in web development
 
 ---
 
 ## 📈 My Development Journey
 
-This GitHub profile represents my evolution as a developer. From foundational programming in **C and C++** to modern **TypeScript-based web development**, I've built a diverse portfolio spanning:
+```
+🌱 Foundations          ████████████████████  C, C++ → DSA & Algorithms
+💻 Web Fundamentals     ████████████████████  HTML, CSS, JavaScript
+⚡ Modern Frontend      ████████████████████  TypeScript, React, Vue.js
+🔧 Backend & APIs       ████████████████░░░░  Node.js, Express, REST
+🗄️ Databases            ███████████████░░░░░  MongoDB, SQL
+🤖 AI/ML Integration    ████████░░░░░░░░░░░░  Exploring & Growing...
+```
 
-- **Data Structures & Algorithms** - Strong fundamentals in core CS concepts
-- **Web Development** - Full-stack expertise in building responsive applications
-- **UI/UX Implementation** - Creating beautiful and intuitive user interfaces
-- **Community Projects** - Contributing to collaborative open-source initiatives
-
-Every project is a stepping stone in my journey toward becoming an exceptional software engineer.
-
----
-
-## 🎯 Goals for 2026
-
-- 🚀 Contribute to more impactful open-source projects
-- 📚 Deepen expertise in advanced TypeScript patterns
-- 🌐 Build scalable full-stack applications
-- 🤝 Mentor junior developers and grow the community
-- 🏆 Achieve technical excellence in every project
+**From C basics → TypeScript full-stack → the journey never stops! 🚀**
 
 ---
 
-## 💬 Let's Chat!
-
-I love discussing:
-- 💡 New tech trends and innovations
-- 🔧 Best practices in web development
-- 🤝 Open-source collaboration opportunities
-- 📚 Learning resources and community projects
-- 🚀 Exciting startup ideas and tech solutions
-
-Feel free to reach out and start a conversation! 👇
+## 🎯 2026 Roadmap
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajnish-kumar-sahu&color=blue&style=flat)
+| Goal | Status |
+|------|--------|
+| 🚀 Contribute to impactful open-source projects | 🔄 In Progress |
+| 📚 Master advanced TypeScript patterns | 🔄 In Progress |
+| 🌐 Build & launch a scalable SaaS product | 📌 Planned |
+| 🤝 Mentor junior developers | 📌 Planned |
+| 🤖 Integrate AI/ML into web projects | 🔄 Exploring |
+| 🏆 Achieve 100+ GitHub stars | 📌 Planned |
 
-**⭐ If you find my projects helpful, please consider starring them!**
+</div>
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+> *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*  
+> — Patrick McKenzie
+
+<br/>
+
+```
+📐 Clean Code  →  Easy to Read  →  Easy to Maintain  →  Scalable
+🧪 Test First  →  Build Right  →  Ship Confidently  →  Iterate
+🌍 Build Local →  Think Global →  Solve Real Problems → Make Impact
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajnish-kumar-sahu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br/>
+
+**💬 Always open to:** Exciting collabs · Open-source projects · Dev discussions · Mentorship
+
+</div>
+
+---
+
+<!-- Snake animation -->
+<div align="center">
+
+### 🐍 Watch My Contributions Get Eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajnish-kumar-sahu/ajnish-kumar-sahu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajnish-kumar-sahu/ajnish-kumar-sahu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajnish-kumar-sahu/ajnish-kumar-sahu/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -191,8 +341,13 @@ Feel free to reach out and start a conversation! 👇
 
 <div align="center">
 
-### Made with ❤️ by Ajnish Kumar Sahu
+**⭐ Star my projects if you find them helpful — it really motivates me!**
 
-*Last updated: 2026* | [View All Repositories](https://github.com/ajnish-kumar-sahu?tab=repositories)
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+### Made with ❤️ & ☕ by **Ajnish Kumar Sahu**
+*Last Updated: 2026 · [View All Repos](https://github.com/ajnish-kumar-sahu?tab=repositories)*
 
 </div>
